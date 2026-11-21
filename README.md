@@ -1,65 +1,63 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=190&section=header&text=Kapponi19X9%20Software&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Encabezado de perfil" />
-  <h1>Hola, soy Kapponi19X9</h1>
-  <p><strong>Software Developer · Web · Mobile · Creative Technology</strong></p>
-  <p>
-    <a href="https://github.com/AlkapoOneConet?tab=repositories"><img src="https://img.shields.io/badge/Explora_mis_repositorios-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios" /></a>
-    <a href="https://github.com/AlkapoOneConet"><img src="https://img.shields.io/badge/GitHub-AlkapoOneConet-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
-</div>
+# Kapponi19X9
 
-## Sobre mí
+### Software Developer · Cybersecurity · Web & App Engineering · AI Automation
 
-Soy desarrollador de software enfocado en crear experiencias digitales modernas, funcionales y bien estructuradas. Me interesa convertir ideas en productos reales, aprender continuamente y construir soluciones con una buena combinación de diseño, rendimiento y mantenibilidad.
+<p>
+  <a href="https://xorochimodz.xyz"><img src="https://img.shields.io/badge/Portfolio-xorochimodz.xyz-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/AlkapoOneConet"><img src="https://img.shields.io/badge/GitHub-AlkapoOneConet-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://discord.com/users/k0vzx"><img src="https://img.shields.io/badge/Discord-%40k0vzx-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
 
-- Desarrollo interfaces web y aplicaciones con enfoque en experiencia de usuario.
-- Trabajo con JavaScript, Python, Kotlin, HTML y tecnologías relacionadas.
-- Me gusta explorar nuevas herramientas, mejorar mis proyectos y resolver problemas de forma práctica.
-- Actualmente sigo fortaleciendo mis habilidades en arquitectura, backend y desarrollo multiplataforma.
+## Perfil profesional
 
-## Lenguajes y tecnologías
+Desarrollador de software orientado a construir productos digitales sólidos, automatizaciones útiles y experiencias web modernas. Combino desarrollo frontend y backend con pensamiento analítico, prácticas de seguridad y una mentalidad centrada en resolver problemas reales.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,kotlin,html,css,react,nodejs,express,git,github,androidstudio,vscode,figma&perline=7" alt="Tecnologías: JavaScript, TypeScript, Python, Kotlin, HTML, CSS, React, Node.js, Express, Git, GitHub, Android Studio, VS Code y Figma" />
-</div>
+Mi trabajo abarca creación de sitios web, aplicaciones, herramientas internas, automatización con IA y diagnóstico técnico de seguridad. En ciberseguridad y pentesting trabajo desde un enfoque defensivo, basado en autorización, evidencia reproducible y recomendaciones claras de mitigación.
 
-### Áreas de interés
+## Especialidades
 
-- **Frontend:** interfaces responsivas, componentes reutilizables y experiencias accesibles.
-- **Backend:** APIs, automatización, lógica de negocio y servicios escalables.
-- **Mobile:** aplicaciones Android y exploración de soluciones multiplataforma.
-- **Herramientas:** Git, GitHub, VS Code, Android Studio, Figma y flujos de trabajo modernos.
+- **Ingeniería web:** arquitecturas frontend, APIs, interfaces responsivas, rendimiento y mantenibilidad.
+- **Aplicaciones:** desarrollo de apps, integración de servicios y diseño de flujos orientados al usuario.
+- **Ciberseguridad:** análisis de superficie de ataque, revisión de configuraciones, diagnóstico de vulnerabilidades y pentesting autorizado.
+- **Automatización e IA:** automatización de tareas, integración de APIs, agentes y flujos inteligentes para mejorar procesos.
+- **Buenas prácticas:** control de versiones, documentación, separación de responsabilidades y desarrollo seguro.
 
-## En qué estoy trabajando
+## Stack técnico
 
-Estoy construyendo y mejorando proyectos personales para practicar desarrollo web, aplicaciones y nuevas ideas de software. Cada repositorio representa una oportunidad para aprender, experimentar y escribir código más limpio.
+### Lenguajes
 
-## Objetivos profesionales
+`JavaScript` · `TypeScript` · `Python` · `Kotlin` · `HTML` · `CSS` · `SQL` · `Bash`
 
-- Crear productos digitales útiles, rápidos y fáciles de usar.
-- Profundizar en buenas prácticas de ingeniería de software.
-- Colaborar en proyectos interesantes y seguir creciendo como desarrollador.
-- Compartir aprendizajes y convertir ideas en soluciones concretas.
+### Desarrollo y herramientas
 
-## GitHub de un vistazo
+`React` · `Node.js` · `Express` · `Android` · `Git` · `GitHub` · `REST APIs` · `JSON` · `Linux` · `VS Code` · `Android Studio` · `Figma`
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlkapoOneConet&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlkapoOneConet&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</div>
+### Seguridad y automatización
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AlkapoOneConet&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
-</div>
+`OWASP` · `Pentesting autorizado` · `Secure coding` · `Vulnerability assessment` · `CI/CD` · `Scripting` · `AI APIs` · `Workflow automation`
 
-## Conectemos
+## Proyecto destacado
 
-Si tienes una idea, proyecto o colaboración interesante, puedes encontrarme en GitHub y revisar mis repositorios. Estoy abierto a aprender, colaborar y construir cosas que aporten valor.
+### [XorochiModz](https://xorochimodz.xyz)
 
-<div align="center">
-  <i>“La mejor manera de aprender es construir.”</i>
-</div>
+Proyecto principal enfocado en crear una experiencia digital moderna, funcional y orientada a la comunidad. Visita el sitio para conocer el producto y su evolución.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=100&section=footer" alt="Pie de perfil" />
-</div>
+## Enfoque de trabajo
+
+- Diseño soluciones antes de escribir código.
+- Priorizo código claro, modular y fácil de mantener.
+- Documento decisiones técnicas y riesgos relevantes.
+- Valido cambios con pruebas y revisiones antes de desplegar.
+- En seguridad, trabajo únicamente con autorización explícita y alcance definido.
+
+## Contacto
+
+- **Discord:** [@k0vzx](https://discord.com/users/k0vzx)
+- **Portfolio:** [xorochimodz.xyz](https://xorochimodz.xyz)
+- **GitHub:** [@AlkapoOneConet](https://github.com/AlkapoOneConet)
+
+Estoy abierto a proyectos de desarrollo web, aplicaciones, automatización, integraciones con IA, auditorías técnicas y colaboraciones de software.
+
+---
+
+<p align="center"><sub>Construyendo software útil, seguro y mantenible.</sub></p>
