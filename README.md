@@ -60,7 +60,7 @@ Mi enfoque profesional combina **desarrollo web, aplicaciones, automatización c
 <p align="center">
   <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
   <img src="https://img.shields.io/badge/Secure_Coding-0f766e?style=flat-square&logo=shield&logoColor=white" alt="Secure coding" />
-  <img src="https://img.shields.io/badge/REST_APIs-2563eb?style=flat-square&logo= fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/REST_APIs-2563eb?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/AI_Automation-7c3aed?style=flat-square&logo=openai&logoColor=white" alt="AI automation" />
 </p>
 
