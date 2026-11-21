@@ -22,18 +22,33 @@
 
 <br>
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="28" alt="Cohete" /> Sobre mí
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="28" alt="Rocket" /> About me
 
-Soy **Kapponi19X9**, desarrollador de software enfocado en crear productos digitales, experiencias web, aplicaciones y automatizaciones modernas. Me gusta transformar ideas en soluciones funcionales combinando ingeniería, creatividad y seguridad desde el inicio.
+I am **Kapponi19X9**, a Dominican software developer focused on building polished digital products, modern web experiences, applications and intelligent automations. I enjoy turning ambitious ideas into reliable software by combining engineering, creativity and security from the very beginning.
 
-Mi enfoque profesional combina **desarrollo web, aplicaciones, automatización con IA, integración de APIs, ciberseguridad y diagnóstico de pentesting**. Trabajo de forma técnica, documentada y responsable, siempre con autorización explícita cuando se trata de pruebas de seguridad.
+I work across **web development, app development, AI automation, API integrations, cybersecurity and authorized penetration-testing diagnostics**. My approach is technical, documented and responsible: understand the problem, design the solution, validate the result and continuously improve it.
 
-- Construyo proyectos web y aplicaciones con una mentalidad orientada a producto.
-- Diseño automatizaciones para reducir trabajo repetitivo y mejorar procesos.
-- Analizo configuraciones, superficies de ataque y posibles vulnerabilidades.
-- Aprendo continuamente nuevas herramientas, arquitecturas y prácticas de desarrollo seguro.
+- Proudly building from the **Dominican Republic** and connecting with the global developer community.
+- Focused on practical software that is useful, maintainable, secure and ready to evolve.
+- Interested in product engineering, developer tools, automation, infrastructure and application security.
+- Always learning new architectures, frameworks and security practices.
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/briefcase_1f4bc.png" width="28" alt="Maletín" /> Especialidades
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/globe-showing-americas_1f30e.png" width="28" alt="Globe" /> What I build
+
+- **Web platforms:** responsive interfaces, dashboards, landing pages, full-stack applications and REST APIs.
+- **Applications:** Android experiences, service integrations and user-centered product flows.
+- **Automation systems:** scripts, workflows, API integrations and AI-assisted tools that eliminate repetitive work.
+- **Security diagnostics:** configuration reviews, attack-surface analysis, vulnerability assessment and authorized pentesting.
+- **Technical foundations:** reusable components, clean code, documentation, version control and secure development workflows.
+
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/target_1f3af.png" width="28" alt="Target" /> Current focus
+
+- Building and improving **XorochiModz** at [xorochimodz.xyz](https://xorochimodz.xyz).
+- Expanding my skills in application security, backend architecture and AI-powered automation.
+- Creating projects that combine a strong visual identity with dependable technical foundations.
+- Growing as a developer through consistent practice, experimentation and real-world problem solving.
+
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/briefcase_1f4bc.png" width="28" alt="Briefcase" /> Professional expertise
 
 | Área | Enfoque |
 |---|---|
@@ -41,17 +56,18 @@ Mi enfoque profesional combina **desarrollo web, aplicaciones, automatización c
 | **App Development** | Aplicaciones, Android, integraciones y flujos centrados en el usuario |
 | **Cybersecurity** | OWASP, secure coding, vulnerability assessment y pentesting autorizado |
 | **AI Automation** | APIs de IA, agentes, scripting, workflows y automatización de procesos |
-| **Software Quality** | Código modular, documentación, Git, revisiones y mantenibilidad |
+| **Software Quality** | Modular code, documentation, Git, reviews and maintainability |
+| **Product Thinking** | Turning requirements into clear, useful and measurable digital experiences |
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/363/hammer-and-wrench_1f6e0-fe0f.png" width="28" alt="Herramientas" /> Tech Stack
 
-### Lenguajes y tecnologías
+### Languages and technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,kotlin,html,css,sql,bash&perline=8" alt="JavaScript, TypeScript, Python, Kotlin, HTML, CSS, SQL y Bash" />
 </div>
 
-### Frameworks, plataformas y herramientas
+### Frameworks, platforms and tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,android,git,github,linux,vscode,androidstudio,figma,docker,postman&perline=6" alt="React, Node.js, Express, Android, Git, GitHub, Linux, VS Code, Android Studio, Figma, Docker y Postman" />
@@ -64,13 +80,13 @@ Mi enfoque profesional combina **desarrollo web, aplicaciones, automatización c
   <img src="https://img.shields.io/badge/AI_Automation-7c3aed?style=flat-square&logo=openai&logoColor=white" alt="AI automation" />
 </p>
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/star-struck_1f929.png" width="28" alt="Estrella" /> Proyecto principal
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/star-struck_1f929.png" width="28" alt="Star" /> Featured project
 
 <div align="center">
   <a href="https://xorochimodz.xyz"><img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,14,20,24&height=120&section=header&text=XOROCHI%20MODZ&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="XorochiModz" /></a>
 </div>
 
-**[xorochimodz.xyz](https://xorochimodz.xyz)** es mi proyecto principal: una experiencia digital orientada a la comunidad, con foco en diseño, funcionalidad y evolución constante.
+**[xorochimodz.xyz](https://xorochimodz.xyz)** is my main project: a community-oriented digital experience focused on strong design, useful functionality and continuous improvement.
 
 <a href="https://xorochimodz.xyz"><img src="https://img.shields.io/badge/Visitar_proyecto-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar XorochiModz" /></a>
 
@@ -89,14 +105,16 @@ Mi enfoque profesional combina **desarrollo web, aplicaciones, automatización c
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlkapoOneConet&bg_color=0f172a&color=38bdf8&line=06b6d4&point=ffffff&area=true&hide_border=true" alt="Gráfico de actividad" />
 </div>
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png" width="28" alt="Colaboración" /> Contacto
+## <img src="https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png" width="28" alt="Handshake" /> Let's connect
 
 <div align="center">
   <a href="https://discord.com/users/k0vzx"><img src="https://img.shields.io/badge/Discord-%40k0vzx-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord @k0vzx" /></a>
   <a href="https://xorochimodz.xyz"><img src="https://img.shields.io/badge/Portfolio-xorochimodz.xyz-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </div>
 
-<p align="center">Disponible para proyectos de desarrollo web, aplicaciones, automatización, integraciones con IA, auditorías técnicas y colaboraciones de software.</p>
+<p align="center">Open to web and app development, AI automation, technical security diagnostics, API integrations and meaningful software collaborations.
+
+**Based in the Dominican Republic 🇩🇴 · Building for the world.**</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,45:2563eb,100:020617&height=140&section=footer&animation=fadeIn" alt="Banner inferior" />
