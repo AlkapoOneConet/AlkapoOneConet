@@ -8,19 +8,15 @@
   <a href="https://xorochimodz.xyz"><img src="https://img.shields.io/badge/PORTFOLIO-xorochimodz.xyz-080808?style=for-the-badge&labelColor=080808&color=EF233C" alt="Portfolio" /></a>
 </div>
 
-## `01 // PROFILE`
+## About me
 
 I’m **Kapponi19X9**, a **Dominican software developer** building useful, maintainable and secure digital products from the Dominican Republic for the global developer community.
 
-My work sits at the intersection of **web engineering, application development, cybersecurity diagnostics, authorized penetration testing and AI-powered automation**. I like systems that are clear under the hood, intentional in the interface and responsible in production.
+My work sits at the intersection of **web engineering, application development, cybersecurity diagnostics, authorized penetration testing and AI-powered automation**. I like systems that are clear under the hood, intentional in the interface and responsible in production. I usually start by understanding the problem, then design, build, validate and improve the solution.
 
-```text
-focus = [web systems, apps, security, automation]
-method = [understand, design, build, validate, improve]
-location = "Dominican Republic 🇩🇴"
-```
+Based in the **Dominican Republic 🇩🇴**, I’m interested in collaborating with people who care about useful products, thoughtful engineering and continuous learning.
 
-## `02 // CAPABILITIES`
+## What I do
 
 | Area | What I do |
 | --- | --- |
@@ -31,7 +27,7 @@ location = "Dominican Republic 🇩🇴"
 | **AI automation** | AI APIs, scripts, agents and workflows that reduce repetitive work |
 | **Product engineering** | Technical decisions, documentation, version control and maintainable delivery |
 
-## `03 // STACK`
+## Technologies I use
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,kotlin,html,css,sql,bash&theme=dark&perline=8" alt="JavaScript, TypeScript, Python, Kotlin, HTML, CSS, SQL and Bash" />
@@ -51,7 +47,7 @@ location = "Dominican Republic 🇩🇴"
   <img src="./assets/project-banner.svg" alt="Featured project technical banner" />
 </div>
 
-## `04 // FEATURED PROJECT`
+## Featured project
 
 ### [XorochiModz](https://xorochimodz.xyz)
 
@@ -59,7 +55,7 @@ A community-oriented digital project focused on **visual identity, useful functi
 
 <a href="https://xorochimodz.xyz"><img src="https://img.shields.io/badge/OPEN_PROJECT-080808?style=for-the-badge&labelColor=080808&color=EF233C&logo=googlechrome&logoColor=EF233C" alt="Open XorochiModz" /></a>
 
-## `05 // CURRENT OPERATING MODE`
+## Current focus
 
 - Building web platforms, applications and internal tools.
 - Developing AI-assisted automations and API integrations.
@@ -67,14 +63,14 @@ A community-oriented digital project focused on **visual identity, useful functi
 - Working on authorized security diagnostics with defined scope and responsible disclosure.
 - Improving through real projects, documentation and deliberate iteration.
 
-## `06 // GITHUB SIGNALS`
+## GitHub activity
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlkapoOneConet&show_icons=true&hide_border=true&theme=dark&bg_color=080808&title_color=EF233C&icon_color=EF233C&text_color=E5E5E5" alt="GitHub statistics" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlkapoOneConet&layout=compact&hide_border=true&theme=dark&bg_color=080808&title_color=EF233C&text_color=E5E5E5" alt="Top languages" />
 </div>
 
-## `07 // CONTACT`
+## Let’s connect
 
 - **Discord:** [@k0vzx](https://discord.com/users/k0vzx)
 - **Portfolio:** [xorochimodz.xyz](https://xorochimodz.xyz)
