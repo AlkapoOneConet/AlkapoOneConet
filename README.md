@@ -27,6 +27,26 @@ Based in the **Dominican Republic 🇩🇴**, I’m interested in collaborating 
 | **AI automation** | AI APIs, scripts, agents and workflows that reduce repetitive work |
 | **Product engineering** | Technical decisions, documentation, version control and maintainable delivery |
 
+## How I can help
+
+I’m interested in practical projects where software needs to be useful, reliable and easy to improve over time.
+
+- **Websites and platforms:** from a focused landing page to a complete community or product experience.
+- **Application prototypes:** turning an idea into a working web or Android application.
+- **Automation:** connecting APIs, scripts and AI tools to remove repetitive steps from a workflow.
+- **Technical reviews:** identifying configuration issues, weak points and opportunities to improve maintainability.
+- **Security-minded development:** applying safer defaults, clear boundaries and responsible testing from the beginning.
+
+## How I work
+
+1. **Understand the goal** — define the user, the problem and the result that matters.
+2. **Plan the structure** — choose the simplest architecture that can support the next stage.
+3. **Build in iterations** — keep changes focused, reviewable and easy to test.
+4. **Validate the details** — check behavior, performance, security considerations and usability.
+5. **Document the outcome** — leave behind code and decisions that another person can understand.
+
+I value direct communication, realistic scope and steady progress over unnecessary complexity.
+
 ## Technologies I use
 
 <div align="center">
@@ -43,6 +63,18 @@ Based in the **Dominican Republic 🇩🇴**, I’m interested in collaborating 
   <img src="https://img.shields.io/badge/AI_Automation-080808?style=flat-square&logo=openai&logoColor=EF233C" alt="AI automation" />
 </p>
 
+## Engineering standards
+
+```text
+Readable code        over clever code
+Small iterations     over risky rewrites
+Documented decisions over hidden assumptions
+Secure defaults      over last-minute fixes
+Useful features      over empty complexity
+```
+
+For security work, I only test systems I own or systems where the scope and authorization are clear. Findings should be reproducible, responsibly reported and connected to a practical mitigation.
+
 <div align="center">
   <img src="./assets/project-banner.svg" alt="Featured project technical banner" />
 </div>
@@ -55,6 +87,15 @@ A community-oriented digital project focused on **visual identity, useful functi
 
 <a href="https://xorochimodz.xyz"><img src="https://img.shields.io/badge/OPEN_PROJECT-080808?style=for-the-badge&labelColor=080808&color=EF233C&logo=googlechrome&logoColor=EF233C" alt="Open XorochiModz" /></a>
 
+The project represents the kind of work I enjoy: a clear identity, a real audience, room to experiment and a product that can keep evolving instead of being treated as a one-off page.
+
+## What I’m learning next
+
+- Improving backend architecture and API design.
+- Deepening application-security and secure-delivery practices.
+- Building more useful AI-assisted developer workflows.
+- Writing better documentation and sharing more complete project case studies.
+
 ## Current focus
 
 - Building web platforms, applications and internal tools.
@@ -63,11 +104,19 @@ A community-oriented digital project focused on **visual identity, useful functi
 - Working on authorized security diagnostics with defined scope and responsible disclosure.
 - Improving through real projects, documentation and deliberate iteration.
 
+## Collaboration
+
+If you are building a website, application, automation or technical project, send me a message with the context, what you want to achieve and where you are currently blocked. I prefer conversations that begin with the problem rather than a list of tools.
+
 ## GitHub activity
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlkapoOneConet&show_icons=true&hide_border=true&theme=dark&bg_color=080808&title_color=EF233C&icon_color=EF233C&text_color=E5E5E5" alt="GitHub statistics" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlkapoOneConet&layout=compact&hide_border=true&theme=dark&bg_color=080808&title_color=EF233C&text_color=E5E5E5" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlkapoOneConet&bg_color=080808&color=E5E5E5&line=EF233C&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity" />
 </div>
 
 ## Let’s connect
