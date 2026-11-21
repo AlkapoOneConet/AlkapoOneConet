@@ -1,0 +1,15 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" fill="#080808"/>
+  <path d="M0 235H1200M0 260H1200M0 285H1200M80 0V300M160 0V300M240 0V300M320 0V300M400 0V300M480 0V300M560 0V300M640 0V300M720 0V300M800 0V300M880 0V300M960 0V300M1040 0V300M1120 0V300" stroke="#242424" stroke-width="1"/>
+  <path d="M0 210L120 210L150 178L180 210L245 210L280 130L315 210L455 210L500 164L545 210L640 210L680 72L720 210L1200 210" stroke="#EF233C" stroke-width="2" opacity="0.9"/>
+  <path d="M0 214L1200 214" stroke="#EF233C" stroke-width="1" opacity="0.22"/>
+  <rect x="64" y="48" width="1072" height="122" stroke="#343434"/>
+  <rect x="64" y="48" width="1072" height="26" fill="#111111" stroke="#343434"/>
+  <circle cx="84" cy="61" r="4" fill="#EF233C"/><circle cx="99" cy="61" r="4" fill="#4B4B4B"/><circle cx="114" cy="61" r="4" fill="#4B4B4B"/>
+  <text x="138" y="65" fill="#777777" font-family="monospace" font-size="11">kapponi@xoro: ~/profile</text>
+  <text x="96" y="112" fill="#EF233C" font-family="monospace" font-size="18">&gt;_</text>
+  <text x="142" y="112" fill="#F4F4F4" font-family="monospace" font-size="30" font-weight="700">KAPPONI19X9</text>
+  <text x="144" y="143" fill="#A1A1A1" font-family="monospace" font-size="13">DOMINICAN SOFTWARE DEVELOPER // WEB // SECURITY // AI AUTOMATION</text>
+  <text x="950" y="258" fill="#EF233C" font-family="monospace" font-size="11">BUILD / SECURE / SHIP</text>
+  <text x="65" y="258" fill="#555555" font-family="monospace" font-size="11">STATUS: ONLINE</text>
+</svg>
