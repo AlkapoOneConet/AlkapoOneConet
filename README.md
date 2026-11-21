@@ -47,6 +47,10 @@ location = "Dominican Republic 🇩🇴"
   <img src="https://img.shields.io/badge/AI_Automation-080808?style=flat-square&logo=openai&logoColor=EF233C" alt="AI automation" />
 </p>
 
+<div align="center">
+  <img src="./assets/project-banner.svg" alt="Featured project technical banner" />
+</div>
+
 ## `04 // FEATURED PROJECT`
 
 ### [XorochiModz](https://xorochimodz.xyz)
@@ -78,4 +82,6 @@ A community-oriented digital project focused on **visual identity, useful functi
 
 > **Dominican Republic 🇩🇴 · building for the world.**
 
-<div align="center"><sub>BUILD / SECURE / SHIP</sub></div>
+<div align="center">
+  <img src="./assets/footer-banner.svg" alt="Technical profile footer banner" />
+</div>
